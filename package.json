@@ -1,0 +1,14 @@
+{
+  "name": "busca-google",
+  "version": "1.0.0",
+  "description": "Busca no Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Thamini",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
